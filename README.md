@@ -1,6 +1,5 @@
 # SOURCE CODE ( ASFER SOFTWARE )
 
-#  Asfer Wars
-#  Alativity Comander
+#  1) Asfer Wars
+#  2) Alativity Comander
 
-# SOURCE CODE ( ASFER SOFTWARE )
