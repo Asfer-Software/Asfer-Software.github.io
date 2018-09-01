@@ -1,2 +1,6 @@
-# Файлы исходного кода игры Asfer Software
-# В данном репозитории хранятся данные - Asfer Wars,Alativity Comander
+# SOURCE CODE ( ASFER SOFTWARE )
+
+#  Asfer Wars
+#  Alativity Comander
+
+# SOURCE CODE ( ASFER SOFTWARE )
